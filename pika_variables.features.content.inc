@@ -110,7 +110,7 @@ function pika_variables_content_default_fields() {
     'description_field' => '0',
     'widget' => array(
       'file_extensions' => 'kml',
-      'file_path' => '',
+      'file_path' => 'user_uploads/sl_parcel',
       'progress_indicator' => 'bar',
       'max_filesize_per_file' => '',
       'max_filesize_per_node' => '',
